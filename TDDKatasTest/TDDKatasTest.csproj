@@ -57,7 +57,10 @@
   </Choose>
   <ItemGroup>
     <Compile Include="ConsecutiveStringKataTest\LongestConsecutivesTests .cs" />
+    <Compile Include="HighestScoringWordTest\WordScoreTest.cs" />
+    <Compile Include="IPtoStringTest\IpToStringConverterTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RomanNumeralsEncoderTest\RomanConvertTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
